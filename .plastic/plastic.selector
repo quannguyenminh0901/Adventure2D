@@ -1,0 +1,4 @@
+repository "adventure2d@unity_21010617@cloud"
+  path "/"
+    br "/main"
+    co "/main"
